@@ -1,0 +1,41 @@
+.logInp{
+ margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    height: 25px;
+}
+
+.pw_inp{
+     margin-left: 595px;
+     height: 25px;
+     margin-top: 5px;
+    
+}
+
+.logBtn{
+     display: flex;
+     margin-left: 630px;
+     margin-top: 5px;
+     height: 25px;
+     width: 100px;
+     justify-content: center;
+     align-items: center;
+}
+
+.logError{
+     margin-left: 100px;
+     margin-top: 5px;
+}
+
+.actBtn{
+     width: 85px;
+     height: 30px;
+     margin-top: 10px;
+}
+
+.map{
+     width: 500px;
+     height: 500px;
+     margin: 0 auto;
+     margin-top: 50px
+}

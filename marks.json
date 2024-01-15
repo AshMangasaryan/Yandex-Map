@@ -1,0 +1,36 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "city": "Erevan - Арутюна Каленца, 45",
+      "street": "Арутюна Каленца, 45",
+      "isActive": false,
+      "locationX": 40.200377,
+      "locationY": 44.489154
+    },
+    {
+      "id": 2,
+      "city": "Erevan - Авета Аветисяна, 68",
+      "street": "Авета Аветисяна, 68",
+      "isActive": true,
+      "locationX": 40.198097,
+      "locationY": 44.500644
+    },
+    {
+      "id": 3,
+      "city": "Erevan - 1-й переулок улицы Прошяна, 19",
+      "street": "1-й переулок улицы Прошяна, 19",
+      "isActive": false,
+      "locationX": 40.18981,
+      "locationY": 44.506186
+    },
+    {
+      "id": 4,
+      "city": "Sevan - Манвела 78",
+      "street": "Манвела 78",
+      "isActive": true,
+      "locationX": 39.18981,
+      "locationY": 44.506186
+    }
+  ]
+}
